@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="34053" started-at="2020-06-19T01:57:18 IDT" finished-at="2020-06-19T01:57:52 IDT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="34053" started-at="2020-06-19T01:57:18 IDT" finished-at="2020-06-19T01:57:52 IDT">
+      <class name="MyClass1">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:MyClass1@551aa95a]" name="beforeClass" is-config="true" duration-ms="13" started-at="2020-06-19T01:57:18 IDT" finished-at="2020-06-19T01:57:18 IDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="test01()[pri:0, instance:MyClass1@551aa95a]" name="test01" duration-ms="12622" started-at="2020-06-19T01:57:18 IDT" finished-at="2020-06-19T01:57:30 IDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test01 -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:MyClass1@551aa95a]" name="afterClass" is-config="true" duration-ms="3668" started-at="2020-06-19T01:57:30 IDT" finished-at="2020-06-19T01:57:34 IDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- MyClass1 -->
+      <class name="MyClass2">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:MyClass2@35d176f7]" name="beforeClass" is-config="true" duration-ms="1" started-at="2020-06-19T01:57:34 IDT" finished-at="2020-06-19T01:57:34 IDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="test01()[pri:0, instance:MyClass2@35d176f7]" name="test01" duration-ms="14007" started-at="2020-06-19T01:57:34 IDT" finished-at="2020-06-19T01:57:48 IDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test01 -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:MyClass2@35d176f7]" name="afterClass" is-config="true" duration-ms="3700" started-at="2020-06-19T01:57:48 IDT" finished-at="2020-06-19T01:57:52 IDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- MyClass2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
